@@ -1,0 +1,4 @@
+{
+    "workspaceFolder": "azdo",
+    "postCreateCommand": "git clone <url> azdo"
+}
